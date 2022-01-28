@@ -24,6 +24,9 @@ body {
      font-family: 'Lato', sans-serif;
      line-height: 1.7; /* line-height is unit-less */
      font-size: 100%;
+      background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }  
 
 .grey {
